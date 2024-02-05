@@ -10,4 +10,4 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
 
 ## Sitio web Desplegado
 El taller estará finalizado una vez suban su página a internet y agregue a continuación el link:
-- **Link del sitio web desplegado:**
+- **Link del sitio web desplegado:** https://josu-s12.github.io/Omelette.github.io/
